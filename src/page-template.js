@@ -55,7 +55,7 @@ const generateAbout = aboutText => {
     
   };
 module.exports = templateData  => {
-    console.log(templateData)
+
 
 
       const { projects, about, ...header } = templateData;
